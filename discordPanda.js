@@ -19,7 +19,7 @@ const dbl = new DBL(bot.config.dbl_token);
 
 //#region Dev
 var DefaultGuildID = bot.config.DefaultGuildID;
-var yt_api_key = bot.config.AIzaSyAdORXg7UZUo7sePv97JyoDqtQVi3Ll0b8;
+var AIzaSyAdORXg7UZUo7sePv97JyoDqtQVi3Ll0b8 = bot.config.AIzaSyAdORXg7UZUo7sePv97JyoDqtQVi3Ll0b8;
 
 var BOT_TOKEN = bot.config.BOT_TOKEN;
 bot.login(BOT_TOKEN);
